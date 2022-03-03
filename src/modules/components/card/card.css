@@ -1,0 +1,27 @@
+.card {
+    background: #ffffff;
+    box-shadow: 0px 26px 50px -15px rgba(239, 72, 62, 0.1);
+    border-radius: 11.1586px;
+    border: none;
+    margin: 1.2rem 0rem;
+    height: 200px;
+    max-width: 400px;
+}
+
+.subject-card {
+    overflow: hidden;
+    z-index: 1;
+}
+img {
+    height: 179px;
+    object-fit: cover;
+}
+.content {
+    z-index: 3;
+    width: 320px;
+}
+.circle {
+    border-radius: 50%;
+    z-index: 2;
+    position: absolute;
+}

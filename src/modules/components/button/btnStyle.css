@@ -1,0 +1,14 @@
+.hero_btn {
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    width: 200px;
+  }
+  .hero_btn:hover {
+      background-color: #ffffff;
+      padding: 10px 50px;
+      border: none;
+      color: #ef483e;
+      transition: ease-in-out;
+      width: 300px;
+    }
